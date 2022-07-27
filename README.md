@@ -4,12 +4,6 @@
   <a href="https://www.youtube.com/channel/UC2VHHRxQfMWyUfvXl8W2Yww">YouTube</a>
 </p>
 
-<p align="center"><br>
-  <a href="https://github.com/GuFFy12">
-    <img src="https://lanyard.cnrad.dev/api/839181383568982056"/>
-     </a>
-</p>
-
 <br>
 <p align="center">
 	<b>Languages</b>
