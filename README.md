@@ -1,4 +1,5 @@
 <p align="center">
-	<img height="40" src="https://media.discordapp.net/attachments/846713231661727784/919876399563681862/file.gif">&nbsp;
+	<img height="40" src="https://github.com/user-attachments/assets/bd26b554-fe19-425c-ba40-5a1cbe088bd4">
 </p>
 
+ 
