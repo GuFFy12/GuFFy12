@@ -1,5 +1,6 @@
+## Wakapi: track of my coding time
 <p align="center">
-	<img height="40" src="https://github.com/user-attachments/assets/bd26b554-fe19-425c-ba40-5a1cbe088bd4">
+	<img src="https://wakapi.dev/api/activity/chart/GuFFy12.svg">
 </p>
 
 ## Живые проекты
@@ -15,3 +16,7 @@
 ## Остальное
 
 Мелкие скрипты, утилиты и старые проекты которые не стоят упоминания. Пару скрытых проектов. Приватные devops проекты в стеке gitlab, ansible, django, docker, nginx и так далее.
+
+<p align="center">
+	<img height="40" src="https://github.com/user-attachments/assets/bd26b554-fe19-425c-ba40-5a1cbe088bd4">
+</p>
